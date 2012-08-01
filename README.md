@@ -11,8 +11,18 @@ To help novice users manage the services of a VPS. Starting with MongoDB and Nod
 
 Getting Started
 ---------------
-#MongoDB
 
+Create something like http://logio.org/
+
+
+
+#MongoDB
+http://tag1consulting.com/blog/mongodb-nagios-check
+
+
+#Node.js
+https://github.com/nicokaiser/node-monit
+https://github.com/lorenwest/node-monitor
 
 
 Options
