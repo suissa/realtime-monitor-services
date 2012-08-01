@@ -17,6 +17,7 @@ Create something like http://logio.org/
 
 #Issues
 * Test Zabbix http://www.zabbix.com/
+* Cpanel-like http://www.ispconfig.org/
 
 
 #MongoDB
