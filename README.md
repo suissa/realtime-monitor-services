@@ -16,14 +16,17 @@ Create something like http://logio.org/
 
 
 #Issues
-* Test https://github.com/bobrik/node-zabbix-agent-client
+* Test Zabbix http://www.zabbix.com/
 
 
 #MongoDB
+http://notes.capkan.org/zabbix-mongodb-stats-plugin/
 http://tag1consulting.com/blog/mongodb-nagios-check
 
 
 #Node.js
+https://github.com/bobrik/node-zabbix-agent-client
+
 https://github.com/nicokaiser/node-monit
 https://github.com/lorenwest/node-monitor
 
