@@ -1,4 +1,4 @@
-realtime-monitor-services
+Realtime monitor services
 =========================
 
 Web admin based system for monitoring services.
