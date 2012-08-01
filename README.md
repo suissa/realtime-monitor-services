@@ -15,6 +15,9 @@ Getting Started
 Create something like http://logio.org/
 
 
+#Issues
+* Test https://github.com/bobrik/node-zabbix-agent-client
+
 
 #MongoDB
 http://tag1consulting.com/blog/mongodb-nagios-check
